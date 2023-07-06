@@ -1,4 +1,5 @@
 relays:
+- wss://nostr.carlostkd.ch
 - wss://relayable.org
 - wss://relay.valera.co
 - wss://relay.nostr.ai
